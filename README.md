@@ -1,2 +1,0 @@
-# HooHacks2021Submisson
- 
