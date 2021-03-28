@@ -2,10 +2,10 @@
   <img src="https://cdn6.f-cdn.com/contestentries/514361/19225055/576577cb5d167_thumb900.jpg" /></a>
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
-  <img src="https://img.shields.io/badge/Code%20Language-Javascript-9cf" /></a>
+  <img src="https://img.shields.io/badge/Code%20Language-JavaScript-9cf" /></a>
   <img src="https://img.shields.io/badge/Version-vF-blue" /></a>
  ---
-A SMS messaging bot, moodBuddy, that sends you notifications asking how your day has been going. The responses of the user get saved in a database and moodBuddy gives you weekly reflections on how your week went. 
+A SMS messaging bot, moodBuddy, that sends you notifications asking how your day has been going. The responses of the user get saved in a database and moodBuddy gives you weekly reflections on how your week went. Application uses a combination of Twilio SMS API, JavaScript, and 
 
 ## Running the application
 
