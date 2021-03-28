@@ -7,10 +7,11 @@
  ---
 A SMS messaging bot, moodBuddy, that sends you notifications asking how your day has been going. The responses of the user get saved in a database and moodBuddy gives you weekly reflections on how your week went. Application uses a combination of Twilio SMS API, JavaScript, and 
 
-## Running the application
-
-
-
+## Running the application on Windows
+Please type the following commands in the terminal:
+1. npm install ngrok -g
+2. node app.js
+3. ngrok http 3000 (creates a local host server)
 
 
 ## Features
@@ -23,6 +24,6 @@ A SMS messaging bot, moodBuddy, that sends you notifications asking how your day
 ## Credits
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/badges/shields/graphs/contributors"></a>
-* Arjit
-* Sharujan
-* Lukas
+* Arjit Johar
+* Sharujan Rajakumar
+* Lukas Rose
