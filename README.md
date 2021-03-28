@@ -2,28 +2,16 @@
   <img src="https://cdn6.f-cdn.com/contestentries/514361/19225055/576577cb5d167_thumb900.jpg" /></a>
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
- <img src="https://img.shields.io/badge/Code%20Coverage-97%25-brightgreen" /></a>
-  <img src="https://img.shields.io/badge/Code%20Language-Java-9cf" /></a>
-  <img src="https://img.shields.io/badge/Code%20Style-Standard-brightgreen" /></a>
+  <img src="https://img.shields.io/badge/Code%20Language-Javascript-9cf" /></a>
   <img src="https://img.shields.io/badge/Version-vF-blue" /></a>
  ---
-A desktop platform for creating customizable Venn Diagrams effectively and easily. The purpose of the Venn Diagram Visual Tool is to allow users to organize their information visually into three categories, consisting of sections of two circles and a section where the two circles overlap another. Users are	able to see the relationships between the sets of information and identify similarities and differences.
+A SMS messaging bot, moodBuddy, that sends you notifications asking how your day has been going. The responses of the user get saved in a database and moodBuddy gives you weekly reflections on how your week went. 
 
 ## Running the application
 
-When running the application, it is advised to download the executable JAR file in a folder/directory of its own.
 
-### Linux
-In terminal in proper directory where application is located:
-```
-$ java -jar VennApplication.jar
-```
-### Windows
-1. Open directory where VennApplication.jar is located.
-2. Double-Click on VennApplication.jar
-### Mac OS
-1. Open the directory where the VennApplication.jar is located.
-2. Right-click the VennApplication.jar, choose open with/jar Launcher, the application will pop-up.
+
+
 
 ## Features
 - [x] Customizable Titles
@@ -64,7 +52,6 @@ $ java -jar VennApplication.jar
 ## Credits
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/badges/shields/graphs/contributors"></a>
-* Lukas Rose
-* Jawad Ahmed
-* Sarwat Shaheen
-* Wei ming yu
+* Arjit
+* Sharujan
+* Lukas
